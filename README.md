@@ -1,1 +1,1 @@
-### prueba de conexión Jenkins y GitHub :D
+### prueba de conexión Jenkins y GitHub
